@@ -92,20 +92,18 @@ namespace Nqq_2301010013.Controllers
                 _dbContext.Books.Add(bookDomainModel);
                 _dbContext.SaveChanges();
 
-                // thêm quan hệ Book - Author
-                foreach (var id in addBookRequestDTO.AuthorIds)
+            // thêm quan hệ Book - Author
+            foreach (var id in addBookRequestDTO.AuthorIds)
+            {
+                _dbContext.Books_Authors.Add(new Book_Author
                 {
-                    var _book_author = new Book_Author()
-                    {
-                        BookId = bookDomainModel.Id,
-                        AuthorId = id
-                    };
+                    BookId = bookDomainModel.Id,
+                    AuthorId = id
+                });
+            }
+            _dbContext.SaveChanges();
 
-                    _dbContext.Books_Authors.Add(_book_author);
-                    _dbContext.SaveChanges();
-                }
-
-                return Ok();
+            return Ok();
             }
 
             // PUT http://localhost:port/api/books/update-book-by-id/1
