@@ -9,6 +9,6 @@ namespace Nqq_2301010013.Model.Domain
         public string FullName { get; set; }
 
         // Navigation properties – One author has many book_author
-        public List<Book_Author> Book_Authors { get; set; }
+        public ICollection<Book_Author>? Book_Authors { get; set; }
     }
 }

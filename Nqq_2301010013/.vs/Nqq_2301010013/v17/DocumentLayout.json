@@ -3,20 +3,96 @@
   "WorkspaceRootPath": "D:\\Quyeenf\\Nqq_2301010013\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\repositories\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\repositories\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\repositories\\sqlauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\repositories\\sqlauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\model\\domain\\authors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\model\\domain\\authors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\repositories\\ipublisherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\repositories\\ipublisherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\repositories\\sqlpublisherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\repositories\\sqlpublisherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\controllers\\publisherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\controllers\\publisherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\model\\domain\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\model\\domain\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\repositories\\sqlbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\repositories\\sqlbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\controllers\\dto\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\controllers\\dto\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\controllers\\dto\\addpublisherrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\controllers\\dto\\addpublisherrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\model\\domain\\publishers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\model\\domain\\publishers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\model\\domain\\authors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\model\\domain\\authors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\model\\domain\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\model\\domain\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\controllers\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\controllers\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\controllers\\dto\\publisherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\controllers\\dto\\publisherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\controllers\\dto\\addauthorrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\controllers\\dto\\addauthorrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\controllers\\dto\\addbookrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\controllers\\dto\\addbookrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\model\\domain\\book_author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,36 +103,8 @@
       "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\controllers\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\controllers\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\controllers\\dto\\addbookrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\controllers\\dto\\addbookrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\nqq_2301010013.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -74,7 +122,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,85 +130,176 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\appsettings.json",
-              "RelativeDocumentMoniker": "Nqq_2301010013\\appsettings.json",
-              "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\appsettings.json",
-              "RelativeToolTip": "Nqq_2301010013\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-15T07:42:24.198Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Nqq_2301010013\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Nqq_2301010013\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAaAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "SQLAuthorRepository.cs",
+              "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Repositories\\SQLAuthorRepository.cs",
+              "RelativeDocumentMoniker": "Nqq_2301010013\\Repositories\\SQLAuthorRepository.cs",
+              "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Repositories\\SQLAuthorRepository.cs",
+              "RelativeToolTip": "Nqq_2301010013\\Repositories\\SQLAuthorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T07:40:18.72Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Nqq_2301010013\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Nqq_2301010013\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T07:04:26.688Z",
+              "WhenOpened": "2025-09-17T07:43:55.863Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "SQLPublisherRepository.cs",
+              "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Repositories\\SQLPublisherRepository.cs",
+              "RelativeDocumentMoniker": "Nqq_2301010013\\Repositories\\SQLPublisherRepository.cs",
+              "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Repositories\\SQLPublisherRepository.cs",
+              "RelativeToolTip": "Nqq_2301010013\\Repositories\\SQLPublisherRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T07:51:23.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAuthorRepository.cs",
+              "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Repositories\\IAuthorRepository.cs",
+              "RelativeDocumentMoniker": "Nqq_2301010013\\Repositories\\IAuthorRepository.cs",
+              "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Repositories\\IAuthorRepository.cs",
+              "RelativeToolTip": "Nqq_2301010013\\Repositories\\IAuthorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T07:13:00.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Nqq_2301010013\\Controllers\\BookController.cs",
+              "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Nqq_2301010013\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T08:38:46.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Authors.cs",
+              "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Model\\Domain\\Authors.cs",
+              "RelativeDocumentMoniker": "Nqq_2301010013\\Model\\Domain\\Authors.cs",
+              "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Model\\Domain\\Authors.cs",
+              "RelativeToolTip": "Nqq_2301010013\\Model\\Domain\\Authors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T07:35:16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "Nqq_2301010013\\Controllers\\AuthorsController.cs",
+              "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "Nqq_2301010013\\Controllers\\AuthorsController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAjwBEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T07:47:43.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PublishersController.cs",
+              "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Controllers\\PublishersController.cs",
+              "RelativeDocumentMoniker": "Nqq_2301010013\\Controllers\\PublishersController.cs",
+              "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Controllers\\PublishersController.cs",
+              "RelativeToolTip": "Nqq_2301010013\\Controllers\\PublishersController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwC8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T07:50:09.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPublisherRepository.cs",
+              "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Repositories\\IPublisherRepository.cs",
+              "RelativeDocumentMoniker": "Nqq_2301010013\\Repositories\\IPublisherRepository.cs",
+              "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Repositories\\IPublisherRepository.cs",
+              "RelativeToolTip": "Nqq_2301010013\\Repositories\\IPublisherRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T07:50:50.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Program.cs",
               "RelativeDocumentMoniker": "Nqq_2301010013\\Program.cs",
               "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Program.cs",
               "RelativeToolTip": "Nqq_2301010013\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T07:04:21.442Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "Nqq_2301010013\\appsettings.Development.json",
-              "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\appsettings.Development.json",
-              "RelativeToolTip": "Nqq_2301010013\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-15T07:46:16.586Z",
+              "DocumentIndex": 9,
+              "Title": "SQLBookRepository.cs",
+              "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Repositories\\SQLBookRepository.cs",
+              "RelativeDocumentMoniker": "Nqq_2301010013\\Repositories\\SQLBookRepository.cs",
+              "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Repositories\\SQLBookRepository.cs",
+              "RelativeToolTip": "Nqq_2301010013\\Repositories\\SQLBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T07:01:41.086Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
+              "Title": "AuthorDTO.cs",
+              "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Controllers\\DTO\\AuthorDTO.cs",
+              "RelativeDocumentMoniker": "Nqq_2301010013\\Controllers\\DTO\\AuthorDTO.cs",
+              "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Controllers\\DTO\\AuthorDTO.cs",
+              "RelativeToolTip": "Nqq_2301010013\\Controllers\\DTO\\AuthorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T07:19:50.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Publishers.cs",
               "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Model\\Domain\\Publishers.cs",
               "RelativeDocumentMoniker": "Nqq_2301010013\\Model\\Domain\\Publishers.cs",
               "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Model\\Domain\\Publishers.cs",
               "RelativeToolTip": "Nqq_2301010013\\Model\\Domain\\Publishers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T07:33:36.504Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
+              "Title": "AddPublisherRequestDTO.cs",
+              "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Controllers\\DTO\\AddPublisherRequestDTO.cs",
+              "RelativeDocumentMoniker": "Nqq_2301010013\\Controllers\\DTO\\AddPublisherRequestDTO.cs",
+              "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Controllers\\DTO\\AddPublisherRequestDTO.cs",
+              "RelativeToolTip": "Nqq_2301010013\\Controllers\\DTO\\AddPublisherRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T07:52:05.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Books.cs",
               "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Model\\Domain\\Books.cs",
               "RelativeDocumentMoniker": "Nqq_2301010013\\Model\\Domain\\Books.cs",
@@ -173,85 +312,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Book_Author.cs",
-              "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Model\\Domain\\Book_Author.cs",
-              "RelativeDocumentMoniker": "Nqq_2301010013\\Model\\Domain\\Book_Author.cs",
-              "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Model\\Domain\\Book_Author.cs",
-              "RelativeToolTip": "Nqq_2301010013\\Model\\Domain\\Book_Author.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T07:36:06.971Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Authors.cs",
-              "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Model\\Domain\\Authors.cs",
-              "RelativeDocumentMoniker": "Nqq_2301010013\\Model\\Domain\\Authors.cs",
-              "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Model\\Domain\\Authors.cs",
-              "RelativeToolTip": "Nqq_2301010013\\Model\\Domain\\Authors.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T07:35:16Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BookController.cs",
-              "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Controllers\\BookController.cs",
-              "RelativeDocumentMoniker": "Nqq_2301010013\\Controllers\\BookController.cs",
-              "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Controllers\\BookController.cs",
-              "RelativeToolTip": "Nqq_2301010013\\Controllers\\BookController.cs",
-              "ViewState": "AgIAAGAAAAAAAAAAAADwv3gAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T08:38:46.249Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Nqq_2301010013\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Nqq_2301010013\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-15T09:12:12.324Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "BookDTO.cs",
               "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Controllers\\DTO\\BookDTO.cs",
               "RelativeDocumentMoniker": "Nqq_2301010013\\Controllers\\DTO\\BookDTO.cs",
               "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Controllers\\DTO\\BookDTO.cs",
               "RelativeToolTip": "Nqq_2301010013\\Controllers\\DTO\\BookDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T08:47:03.988Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "addBookRequestDTO.cs",
-              "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Controllers\\DTO\\addBookRequestDTO.cs",
-              "RelativeDocumentMoniker": "Nqq_2301010013\\Controllers\\DTO\\addBookRequestDTO.cs",
-              "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Controllers\\DTO\\addBookRequestDTO.cs",
-              "RelativeToolTip": "Nqq_2301010013\\Controllers\\DTO\\addBookRequestDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "DocumentIndex": 16,
+              "Title": "PublisherDTO.cs",
+              "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Controllers\\DTO\\PublisherDTO.cs",
+              "RelativeDocumentMoniker": "Nqq_2301010013\\Controllers\\DTO\\PublisherDTO.cs",
+              "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Controllers\\DTO\\PublisherDTO.cs",
+              "RelativeToolTip": "Nqq_2301010013\\Controllers\\DTO\\PublisherDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T08:53:46.287Z",
+              "WhenOpened": "2025-09-17T07:54:28.44Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 19,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Repositories\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "Nqq_2301010013\\Repositories\\IBookRepository.cs",
+              "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Repositories\\IBookRepository.cs",
+              "RelativeToolTip": "Nqq_2301010013\\Repositories\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T06:59:34.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Nqq_2301010013\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Nqq_2301010013\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T07:40:18.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddAuthorRequestDTO.cs",
+              "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Controllers\\DTO\\AddAuthorRequestDTO.cs",
+              "RelativeDocumentMoniker": "Nqq_2301010013\\Controllers\\DTO\\AddAuthorRequestDTO.cs",
+              "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Controllers\\DTO\\AddAuthorRequestDTO.cs",
+              "RelativeToolTip": "Nqq_2301010013\\Controllers\\DTO\\AddAuthorRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T07:20:41.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Nqq_2301010013\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Nqq_2301010013\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T07:04:26.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "Nqq_2301010013\\WeatherForecast.cs",
@@ -264,7 +403,69 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Nqq_2301010013\\appsettings.Development.json",
+              "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\appsettings.Development.json",
+              "RelativeToolTip": "Nqq_2301010013\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-15T07:46:16.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Book_Author.cs",
+              "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Model\\Domain\\Book_Author.cs",
+              "RelativeDocumentMoniker": "Nqq_2301010013\\Model\\Domain\\Book_Author.cs",
+              "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Model\\Domain\\Book_Author.cs",
+              "RelativeToolTip": "Nqq_2301010013\\Model\\Domain\\Book_Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T07:36:06.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "addBookRequestDTO.cs",
+              "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Controllers\\DTO\\addBookRequestDTO.cs",
+              "RelativeDocumentMoniker": "Nqq_2301010013\\Controllers\\DTO\\addBookRequestDTO.cs",
+              "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Controllers\\DTO\\addBookRequestDTO.cs",
+              "RelativeToolTip": "Nqq_2301010013\\Controllers\\DTO\\addBookRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T08:53:46.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\appsettings.json",
+              "RelativeDocumentMoniker": "Nqq_2301010013\\appsettings.json",
+              "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\appsettings.json",
+              "RelativeToolTip": "Nqq_2301010013\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-15T07:42:24.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Nqq_2301010013\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Nqq_2301010013\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-15T09:12:12.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "20250915075124_InitialDatabaseMigration.cs",
               "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Migrations\\20250915075124_InitialDatabaseMigration.cs",
               "RelativeDocumentMoniker": "Nqq_2301010013\\Migrations\\20250915075124_InitialDatabaseMigration.cs",
@@ -276,7 +477,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 26,
               "Title": "Nqq_2301010013.csproj",
               "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Nqq_2301010013.csproj",
               "RelativeDocumentMoniker": "Nqq_2301010013\\Nqq_2301010013.csproj",
