@@ -441,21 +441,28 @@
   "components": {
     "schemas": {
       "AddAuthorRequestDTO": {
+        "required": [
+          "fullName"
+        ],
         "type": "object",
         "properties": {
           "fullName": {
-            "type": "string",
-            "nullable": true
+            "maxLength": 3,
+            "minLength": 3,
+            "type": "string"
           }
         },
         "additionalProperties": false
       },
       "AddPublisherRequestDTO": {
+        "required": [
+          "name"
+        ],
         "type": "object",
         "properties": {
           "name": {
-            "type": "string",
-            "nullable": true
+            "minLength": 1,
+            "type": "string"
           }
         },
         "additionalProperties": false
@@ -494,11 +501,15 @@
         "additionalProperties": false
       },
       "addBookRequestDTO": {
+        "required": [
+          "title"
+        ],
         "type": "object",
         "properties": {
           "title": {
-            "type": "string",
-            "nullable": true
+            "minLength": 10,
+            "pattern": "^[a-zA-Z0-9\\s,.!?-]*$",
+            "type": "string"
           },
           "description": {
             "type": "string",
