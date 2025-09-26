@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "D:\\Quyeenf\\Nqq_2301010013\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\repositories\\sqlbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\repositories\\sqlbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\model\\domain\\authors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\model\\domain\\authors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\repositories\\ipublisherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\repositories\\ipublisherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\repositories\\sqlauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\repositories\\sqlauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\model\\domain\\book_author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\model\\domain\\book_author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\model\\domain\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\model\\domain\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\controllers\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,14 +59,6 @@
       "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\model\\domain\\book_author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\model\\domain\\book_author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\model\\domain\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\model\\domain\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\model\\domain\\publishers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\model\\domain\\publishers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -63,10 +79,6 @@
       "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\customactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\repositories\\sqlbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\repositories\\sqlbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -75,20 +87,8 @@
       "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\repositories\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\repositories\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\repositories\\ipublisherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\repositories\\ipublisherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\repositories\\sqlauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|solutionrelative:nqq_2301010013\\repositories\\sqlauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{19B32A97-ABA9-433F-8881-D9241831A5B1}|Nqq_2301010013\\Nqq_2301010013.csproj|d:\\quyeenf\\nqq_2301010013\\nqq_2301010013\\repositories\\sqlpublisherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -126,7 +126,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -134,72 +134,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "addBookRequestDTO.cs",
-              "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Controllers\\DTO\\addBookRequestDTO.cs",
-              "RelativeDocumentMoniker": "Nqq_2301010013\\Controllers\\DTO\\addBookRequestDTO.cs",
-              "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Controllers\\DTO\\addBookRequestDTO.cs",
-              "RelativeToolTip": "Nqq_2301010013\\Controllers\\DTO\\addBookRequestDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T08:53:46.287Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BookDTO.cs",
-              "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Controllers\\DTO\\BookDTO.cs",
-              "RelativeDocumentMoniker": "Nqq_2301010013\\Controllers\\DTO\\BookDTO.cs",
-              "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Controllers\\DTO\\BookDTO.cs",
-              "RelativeToolTip": "Nqq_2301010013\\Controllers\\DTO\\BookDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T08:47:03.988Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "BookController.cs",
               "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Controllers\\BookController.cs",
               "RelativeDocumentMoniker": "Nqq_2301010013\\Controllers\\BookController.cs",
               "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Controllers\\BookController.cs",
               "RelativeToolTip": "Nqq_2301010013\\Controllers\\BookController.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAywGAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAjwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T08:38:46.249Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Book_Author.cs",
               "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Model\\Domain\\Book_Author.cs",
               "RelativeDocumentMoniker": "Nqq_2301010013\\Model\\Domain\\Book_Author.cs",
               "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Model\\Domain\\Book_Author.cs",
               "RelativeToolTip": "Nqq_2301010013\\Model\\Domain\\Book_Author.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T07:36:06.971Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Nqq_2301010013\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Nqq_2301010013\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T07:40:18.72Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "AuthorsController.cs",
               "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Controllers\\AuthorsController.cs",
               "RelativeDocumentMoniker": "Nqq_2301010013\\Controllers\\AuthorsController.cs",
@@ -212,33 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PublishersController.cs",
-              "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Controllers\\PublishersController.cs",
-              "RelativeDocumentMoniker": "Nqq_2301010013\\Controllers\\PublishersController.cs",
-              "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Controllers\\PublishersController.cs",
-              "RelativeToolTip": "Nqq_2301010013\\Controllers\\PublishersController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowC8AAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T07:50:09.655Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AddPublisherRequestDTO.cs",
-              "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Controllers\\DTO\\AddPublisherRequestDTO.cs",
-              "RelativeDocumentMoniker": "Nqq_2301010013\\Controllers\\DTO\\AddPublisherRequestDTO.cs",
-              "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Controllers\\DTO\\AddPublisherRequestDTO.cs",
-              "RelativeToolTip": "Nqq_2301010013\\Controllers\\DTO\\AddPublisherRequestDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T07:52:05.794Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Authors.cs",
               "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Model\\Domain\\Authors.cs",
               "RelativeDocumentMoniker": "Nqq_2301010013\\Model\\Domain\\Authors.cs",
@@ -251,7 +186,132 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Books.cs",
+              "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Model\\Domain\\Books.cs",
+              "RelativeDocumentMoniker": "Nqq_2301010013\\Model\\Domain\\Books.cs",
+              "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Model\\Domain\\Books.cs",
+              "RelativeToolTip": "Nqq_2301010013\\Model\\Domain\\Books.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T07:31:20.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SQLBookRepository.cs",
+              "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Repositories\\SQLBookRepository.cs",
+              "RelativeDocumentMoniker": "Nqq_2301010013\\Repositories\\SQLBookRepository.cs",
+              "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Repositories\\SQLBookRepository.cs",
+              "RelativeToolTip": "Nqq_2301010013\\Repositories\\SQLBookRepository.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T07:01:41.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Repositories\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "Nqq_2301010013\\Repositories\\IBookRepository.cs",
+              "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Repositories\\IBookRepository.cs",
+              "RelativeToolTip": "Nqq_2301010013\\Repositories\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T06:59:34.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SQLAuthorRepository.cs",
+              "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Repositories\\SQLAuthorRepository.cs",
+              "RelativeDocumentMoniker": "Nqq_2301010013\\Repositories\\SQLAuthorRepository.cs",
+              "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Repositories\\SQLAuthorRepository.cs",
+              "RelativeToolTip": "Nqq_2301010013\\Repositories\\SQLAuthorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T07:43:55.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPublisherRepository.cs",
+              "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Repositories\\IPublisherRepository.cs",
+              "RelativeDocumentMoniker": "Nqq_2301010013\\Repositories\\IPublisherRepository.cs",
+              "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Repositories\\IPublisherRepository.cs",
+              "RelativeToolTip": "Nqq_2301010013\\Repositories\\IPublisherRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T07:50:50.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddPublisherRequestDTO.cs",
+              "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Controllers\\DTO\\AddPublisherRequestDTO.cs",
+              "RelativeDocumentMoniker": "Nqq_2301010013\\Controllers\\DTO\\AddPublisherRequestDTO.cs",
+              "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Controllers\\DTO\\AddPublisherRequestDTO.cs",
+              "RelativeToolTip": "Nqq_2301010013\\Controllers\\DTO\\AddPublisherRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T07:52:05.794Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "PublishersController.cs",
+              "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Controllers\\PublishersController.cs",
+              "RelativeDocumentMoniker": "Nqq_2301010013\\Controllers\\PublishersController.cs",
+              "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Controllers\\PublishersController.cs",
+              "RelativeToolTip": "Nqq_2301010013\\Controllers\\PublishersController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowC8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T07:50:09.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Nqq_2301010013\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Nqq_2301010013\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T07:40:18.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookDTO.cs",
+              "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Controllers\\DTO\\BookDTO.cs",
+              "RelativeDocumentMoniker": "Nqq_2301010013\\Controllers\\DTO\\BookDTO.cs",
+              "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Controllers\\DTO\\BookDTO.cs",
+              "RelativeToolTip": "Nqq_2301010013\\Controllers\\DTO\\BookDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T08:47:03.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "addBookRequestDTO.cs",
+              "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Controllers\\DTO\\addBookRequestDTO.cs",
+              "RelativeDocumentMoniker": "Nqq_2301010013\\Controllers\\DTO\\addBookRequestDTO.cs",
+              "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Controllers\\DTO\\addBookRequestDTO.cs",
+              "RelativeToolTip": "Nqq_2301010013\\Controllers\\DTO\\addBookRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T08:53:46.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "AddAuthorRequestDTO.cs",
               "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Controllers\\DTO\\AddAuthorRequestDTO.cs",
               "RelativeDocumentMoniker": "Nqq_2301010013\\Controllers\\DTO\\AddAuthorRequestDTO.cs",
@@ -259,12 +319,11 @@
               "RelativeToolTip": "Nqq_2301010013\\Controllers\\DTO\\AddAuthorRequestDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T07:20:41.055Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-17T07:20:41.055Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "AuthorDTO.cs",
               "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Controllers\\DTO\\AuthorDTO.cs",
               "RelativeDocumentMoniker": "Nqq_2301010013\\Controllers\\DTO\\AuthorDTO.cs",
@@ -272,25 +331,11 @@
               "RelativeToolTip": "Nqq_2301010013\\Controllers\\DTO\\AuthorDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T07:19:50.716Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-17T07:19:50.716Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Books.cs",
-              "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Model\\Domain\\Books.cs",
-              "RelativeDocumentMoniker": "Nqq_2301010013\\Model\\Domain\\Books.cs",
-              "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Model\\Domain\\Books.cs",
-              "RelativeToolTip": "Nqq_2301010013\\Model\\Domain\\Books.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T07:31:20.314Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "CustomActionFilter.cs",
               "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\CustomActionFilter.cs",
               "RelativeDocumentMoniker": "Nqq_2301010013\\CustomActionFilter.cs",
@@ -298,12 +343,11 @@
               "RelativeToolTip": "Nqq_2301010013\\CustomActionFilter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T01:03:31.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-22T01:03:31.153Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "PublisherDTO.cs",
               "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Controllers\\DTO\\PublisherDTO.cs",
               "RelativeDocumentMoniker": "Nqq_2301010013\\Controllers\\DTO\\PublisherDTO.cs",
@@ -311,25 +355,11 @@
               "RelativeToolTip": "Nqq_2301010013\\Controllers\\DTO\\PublisherDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T07:54:28.44Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-17T07:54:28.44Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "SQLBookRepository.cs",
-              "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Repositories\\SQLBookRepository.cs",
-              "RelativeDocumentMoniker": "Nqq_2301010013\\Repositories\\SQLBookRepository.cs",
-              "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Repositories\\SQLBookRepository.cs",
-              "RelativeToolTip": "Nqq_2301010013\\Repositories\\SQLBookRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T07:01:41.086Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Nqq_2301010013\\Controllers\\WeatherForecastController.cs",
@@ -337,12 +367,11 @@
               "RelativeToolTip": "Nqq_2301010013\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T07:04:26.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T07:04:26.688Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "Publishers.cs",
               "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Model\\Domain\\Publishers.cs",
               "RelativeDocumentMoniker": "Nqq_2301010013\\Model\\Domain\\Publishers.cs",
@@ -350,12 +379,11 @@
               "RelativeToolTip": "Nqq_2301010013\\Model\\Domain\\Publishers.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T07:33:36.504Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T07:33:36.504Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Program.cs",
               "RelativeDocumentMoniker": "Nqq_2301010013\\Program.cs",
@@ -363,12 +391,11 @@
               "RelativeToolTip": "Nqq_2301010013\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T07:04:21.442Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T07:04:21.442Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "IAuthorRepository.cs",
               "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Repositories\\IAuthorRepository.cs",
               "RelativeDocumentMoniker": "Nqq_2301010013\\Repositories\\IAuthorRepository.cs",
@@ -377,42 +404,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-17T07:13:00.546Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "IBookRepository.cs",
-              "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Repositories\\IBookRepository.cs",
-              "RelativeDocumentMoniker": "Nqq_2301010013\\Repositories\\IBookRepository.cs",
-              "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Repositories\\IBookRepository.cs",
-              "RelativeToolTip": "Nqq_2301010013\\Repositories\\IBookRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T06:59:34.517Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "SQLAuthorRepository.cs",
-              "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Repositories\\SQLAuthorRepository.cs",
-              "RelativeDocumentMoniker": "Nqq_2301010013\\Repositories\\SQLAuthorRepository.cs",
-              "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Repositories\\SQLAuthorRepository.cs",
-              "RelativeToolTip": "Nqq_2301010013\\Repositories\\SQLAuthorRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T07:43:55.863Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IPublisherRepository.cs",
-              "DocumentMoniker": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Repositories\\IPublisherRepository.cs",
-              "RelativeDocumentMoniker": "Nqq_2301010013\\Repositories\\IPublisherRepository.cs",
-              "ToolTip": "D:\\Quyeenf\\Nqq_2301010013\\Nqq_2301010013\\Repositories\\IPublisherRepository.cs",
-              "RelativeToolTip": "Nqq_2301010013\\Repositories\\IPublisherRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T07:50:50.363Z"
             },
             {
               "$type": "Document",

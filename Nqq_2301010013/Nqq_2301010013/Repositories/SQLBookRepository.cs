@@ -13,24 +13,55 @@ namespace Nqq_2301010013.Repositories
             _dbContext = dbContext;
         }
 
-        public List<BookDTO> GetAllBooks()
+        public List<BookDTO> GetAllBooks(
+        string? filterOn = null,
+        string? filterQuery = null,
+        string? sortBy = null,
+        bool isAscending = true,
+        int pageNumber = 1,
+        int pageSize = 1000
+)
         {
-            var allBooks = _dbContext.Books.Select(Books => new BookDTO()
+            var allBooks = _dbContext.Books.Select(b => new BookDTO
             {
-                Id = Books.Id,
-                Title = Books.Title,
-                Description = Books.Description,
-                IsRead = Books.IsRead,
-                DateRead = Books.IsRead ? Books.DateRead.Value : null,
-                Rate = Books.IsRead ? Books.Rate.Value : null,
-                Genre = Books.Genre,
-                CoverUrl = Books.CoverUrl,
-                PublisherName = Books.Publisher.Name,
-                AuthorNames = Books.Book_Authors.Select(n => n.Author.FullName).ToList()
-            }).ToList();
+                Id = b.Id,
+                Title = b.Title,
+                Description = b.Description,
+                IsRead = b.IsRead,
+                DateRead = b.IsRead ? b.DateRead.Value : null,
+                Rate = b.IsRead ? b.Rate.Value : null,
+                Genre = b.Genre,
+                CoverUrl = b.CoverUrl,
+                PublisherName = b.Publisher.Name,
+                AuthorNames = b.Book_Authors.Select(a => a.Author.FullName).ToList()
+            }).AsQueryable();
 
-            return allBooks;
+            // Filtering
+            if (!string.IsNullOrWhiteSpace(filterOn) && !string.IsNullOrWhiteSpace(filterQuery))
+            {
+                if (filterOn.Equals("title", StringComparison.OrdinalIgnoreCase))
+                {
+                    allBooks = allBooks.Where(x => x.Title.Contains(filterQuery));
+                }
+            }
+
+            // Sorting
+            if (!string.IsNullOrWhiteSpace(sortBy))
+            {
+                if (sortBy.Equals("title", StringComparison.OrdinalIgnoreCase))
+                {
+                    allBooks = isAscending
+                        ? allBooks.OrderBy(x => x.Title)
+                        : allBooks.OrderByDescending(x => x.Title);
+                }
+            }
+
+            // Pagination
+            var skipResults = (pageNumber - 1) * pageSize;
+            return allBooks.Skip(skipResults).Take(pageSize).ToList();
         }
+
+
 
         public BookDTO GetBookById(int id)
         {
